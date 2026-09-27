@@ -5,6 +5,19 @@
   "sourceURL": "https://l060122jun-dotcom.github.io/ipa-source/appstore.json",
   "apps": [
     {
+      "name": "JM Manga",
+      "type": "1",
+      "version": "0.2.5",
+      "versionDate": "2026-09-27T14:26:38+08:00",
+      "versionDescription": "未签名 IPA，安装前需要使用个人证书签名。最低 iOS 13.0。",
+      "lock": "0",
+      "downloadURL": "https://l060122jun-dotcom.github.io/ipa-source/jm-manga-0.2.5.ipa",
+      "isLanZouCloud": "0",
+      "iconURL": "https://l060122jun-dotcom.github.io/ipa-source/jm-manga-icon.png",
+      "tintColor": "018084",
+      "size": "76935960"
+    },
+    {
       "name": "王者视距S45",
       "type": "1",
       "version": "S45",
