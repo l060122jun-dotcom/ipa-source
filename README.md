@@ -1,4 +1,4 @@
-# 个人 IPA 软件源
+# 流云Pro源
 
 全能签软件源地址：`https://l060122jun-dotcom.github.io/ipa-source/appstore.json`
 
